@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "0.0.0",
+  "homepage": "https://github.com/CharisseL/tic-tac-toe",
+  "authors": [
+    "CharisseL <charisse8@gmail.com>"
+  ],
+  "description": "the dopest tic-tac-toe game ever made",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
